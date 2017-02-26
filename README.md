@@ -1,6 +1,5 @@
 # usux
-Bash scripts
-Created with use of AWK, SED, GREP
+Bash scripts created with use of AWK, SED, GREP
 
 changefiles.sh - script that change words in a text file with that provided by that user
                  modifided files are saved with filenames such as originalfile.1 and so on
